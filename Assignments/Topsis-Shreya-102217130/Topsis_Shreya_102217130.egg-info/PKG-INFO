@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: Topsis-Shreya-102217130
+Version: 1.0.0
+Summary: A Python package for implementing the TOPSIS decision-making method.
+Home-page: https://github.com/shreya/Topsis-Shreya-102217130
+Author: Shreya
+Author-email: shreya.anshi04@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: numpy
+
+# TOPSIS Package
+
+This package implements the TOPSIS (Technique for Order Preference by Similarity to Ideal Solution) method for multi-criteria decision making.
+
+## Installation
+
